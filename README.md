@@ -2,7 +2,7 @@
 
 This is the Github repository for the pipeline of the Project DINOREFHET. The following tools are used :
 - minimap (v2.24-r1122)
-- racon 
+- racon  (1.4.3)
 - assembly-stats
 - mummer (dnadiff)
 
